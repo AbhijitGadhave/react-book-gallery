@@ -1,6 +1,6 @@
 # 📚 React Book Gallery
 
-A small React + TypeScript book gallery built as part of a coding assignment.
+A small React + TypeScript book gallery.
 
 The application demonstrates:
 
@@ -52,3 +52,5 @@ The application demonstrates:
 ```bash
 git clone https://github.com/<your-username>/react-book-gallery.git
 cd react-book-gallery
+npm install
+npm run dev
