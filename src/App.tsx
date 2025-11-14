@@ -29,8 +29,7 @@ const App: React.FC = () => {
       <header className="app-header">
         <h1>Book Gallery</h1>
         <p className="app-subtitle">
-          A small React + TypeScript book gallery with reusable components,
-          toggles, and basic error handling.
+          Book Gallery Application
         </p>
       </header>
 
